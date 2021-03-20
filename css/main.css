@@ -22,7 +22,7 @@ ul {
 
 /* header start */
 .header {
-    background: darkblue;
+    background: red;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
